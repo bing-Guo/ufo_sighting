@@ -142,7 +142,7 @@ for i in range(len(usstates)):
     ax.xaxis.set_major_formatter(DateFormatter('%Y'))
     plt.title(state)
     plt.tight_layout()
-    plt.plot(x,y,color="#91AAB4")
+    plt.plot(x,y,color="darkblue")
     plt.grid(True)
     plt.ylim(0,80)
 
