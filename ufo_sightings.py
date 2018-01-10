@@ -1,4 +1,4 @@
-# Filename: ufo.sightings.py
+# Filename: ufo_sightings.py
 # Date:     2018/01/07
 # Author:   Bing
 
