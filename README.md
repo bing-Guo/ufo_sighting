@@ -11,11 +11,11 @@ A pet project for data storytelling. More information to my BLOG[(here)](http://
 
 ### Data Structure
 
-	| DateOccurred | DateReported | Location 	  | ShortDescription | Duration | LongDescription 		   |
+	| DateOccurred | DateReported | Location      | ShortDescription | Duration | LongDescription          |
     --------------------------------------------------------------------------------------------------------
-	| 19951009	   | 19951009 	  | Iowa City, IA | 	 			 | 	 	    | Man repts. witnessing... |
-	| 19951010	   | 19951011 	  | Milwaukee, WI | 	 			 | 2 min.	| Man  on Hwy 43 SW of ... |
-    | 19950202	   | 19950203	  |	Denmark, WI	  | cone 			 | 75 min	| Caller, and apparently...|
+	| 19951009     | 19951009     | Iowa City, IA | 	 	 |          | Man repts. witnessing... |
+	| 19951010     | 19951011     | Milwaukee, WI | 	 	 | 2 min.   | Man  on Hwy 43 SW of ... |
+    	| 19950202     | 19950203     |	Denmark, WI   | cone             | 75 min   | Caller, and apparently...|
 
 ### Questions
 1. Have UFO sightings increased? Have UFO sightings existed fixed frequency?
