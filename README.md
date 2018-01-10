@@ -1,4 +1,4 @@
-# UFO_sighting
+# UFO_Sighting
 A pet project for data storytelling. More information to my BLOG[(here)](http://binda.blog/2018/01/07/ufo_sighting1).
 
 ### Library used
