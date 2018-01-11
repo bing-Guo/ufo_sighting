@@ -15,7 +15,7 @@ A pet project for data storytelling. More information to my BLOG[(here)](http://
     --------------------------------------------------------------------------------------------------------
 	| 19951009     | 19951009     | Iowa City, IA | 	 	 |          | Man repts. witnessing... |
 	| 19951010     | 19951011     | Milwaukee, WI | 	 	 | 2 min.   | Man  on Hwy 43 SW of ... |
-    	| 19950202     | 19950203     |	Denmark, WI   | cone             | 75 min   | Caller, and apparently...|
+	| 19950202     | 19950203     |	Denmark, WI   | cone             | 75 min   | Caller, and apparently...|
 
 ### Questions
 1. Have UFO sightings increased? Have UFO sightings existed fixed frequency?
@@ -45,13 +45,13 @@ We plot wordcloud based on tf-idf. As shown in Figure 4, the eyewitness use "cra
 Further, we use 2-gram to understand more detail describes. Different color or format of light, like "red light, orang light, ball light, amber light, white light, flash light, blue light or green light". Different shape, like "egg shape, boomerang shape, black triangle, triangle format, orange ball". And other describes, like "green firebal, vapor trail, big dipper".
 
 <div align="center">
-	<img src="https://i.imgur.com/SKwTHR9.png" height="300px" alt="Figure 1" >
-	<img src="https://i.imgur.com/g1OY3e9.png" height="300px" alt="Figure 2" >
+	<img src="https://i.imgur.com/SKwTHR9.png" height="210px" alt="Figure 1" >
+	<img src="https://i.imgur.com/g1OY3e9.png" height="210px" alt="Figure 2" >
 </div>
 
 ![Figure 3](https://i.imgur.com/fEh23TJ.png "Figure 3")
 
 <div align="center">
-	<img src="https://i.imgur.com/HBfccgC.png" height="300px" alt="Figure 4" >
-	<img src="https://i.imgur.com/oUqgeBR.png" height="300px" alt="Figure 5" >
+	<img src="https://i.imgur.com/HBfccgC.png" height="280px" alt="Figure 4" >
+	<img src="https://i.imgur.com/oUqgeBR.png" height="280px" alt="Figure 5" >
 </div>
